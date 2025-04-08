@@ -7,8 +7,8 @@ This is a fully-buildable example project for FullCalendar and Vue 3, leveraging
 ## Installation
 
 ```bash
-git clone https://github.com/fullcalendar/fullcalendar-examples.git
-cd fullcalendar-examples/vue3
+git clone https://github.com/fullcalendar.git
+cd fullcalendar
 npm install
 ```
 
