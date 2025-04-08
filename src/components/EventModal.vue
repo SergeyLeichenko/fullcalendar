@@ -48,8 +48,6 @@
           <button v-if="form.id" type="button" class="delete" @click="$emit('delete', form.id)">Delete</button>
           <button type="submit" class="save">Save</button>
         </div>
-
-        <p>referenceEl: {{ referenceEl }}</p>
       </form>
     </div>
   </div>
